@@ -1,0 +1,26 @@
+.izquierda {
+    background-color: darkslategray;
+    color: aliceblue;
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 1px solid black;
+  }
+
+  .derecha {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 1px solid white;
+  }
+.foto{
+    display: block;
+    margin: 0px auto;
+   }
+
+.emote{
+  display: block;
+  margin: 0px auto;
+  float: left;
+ }
+   
